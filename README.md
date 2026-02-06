@@ -6,10 +6,10 @@ Focused on Telegram infrastructure, OpenAI integrations, and seamless CRM/platfo
 ---
 
 ### 🚀 Current Focus
-- AI agents & autonomous workflows
-- Telegram bot infrastructure & mini-apps
+- AI agents and autonomous workflows
+- Telegram bot infrastructure and Mini Apps
 - Business process automation with LLMs
-- Backend systems for high-load digital products
+- Backend systems for scalable digital products
 
 ---
 
@@ -17,11 +17,11 @@ Focused on Telegram infrastructure, OpenAI integrations, and seamless CRM/platfo
 
 | Category       | Technologies                                                                |
 |----------------|-----------------------------------------------------------------------------|
-| **Backend**    | Python, FastAPI, Flask, REST APIs, Webhooks                                 |
+| **Backend**    | Python, FastAPI, Flask, REST API, Webhooks                                  |
 | **AI/ML**      | OpenAI API, LLM prompting, RAG pipelines, speech-to-text                    |
-| **Messaging**  | Telegram Bot API, MTProto, Algorand                                         |
+| **Messaging**  | Telegram Bot API, aiogram                                                   |
 | **Data**       | PostgreSQL, Redis, SQLAlchemy                                               |
-| **Infra**      | Docker, Linux, GitHub Actions, CI/CD basics                                 |
+| **Infra**      | Docker, Linux, GitHub Actions, CI/CD                                        |
 | **Other**      | Git, WebSockets, AsyncIO, Celery/RQ                                         |
 
 ---
@@ -30,7 +30,7 @@ Focused on Telegram infrastructure, OpenAI integrations, and seamless CRM/platfo
 - Product-first thinking
 - Rapid prototyping → production-ready code
 - Clean architecture without overengineering
-- Automation wherever humans repeat themselves
+- Automate anything humans do repeatedly
 
 ---
 
