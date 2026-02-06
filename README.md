@@ -36,13 +36,5 @@ Focused on Telegram infrastructure, OpenAI integrations, and seamless CRM/platfo
 
 ### 📞 Contacts
 
-**Email:** po42pi@gmail.com 
-**Telegram:** [@nonoyessure](https://t.me/nonoyessure)
-
----
-
-<div align="center">
-
-🚀
-
-</div>
+**Email**: po42pi@gmail.com   
+**Telegram**: [@nonoyessure](https://t.me/nonoyessure)
